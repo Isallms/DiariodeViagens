@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  font-family: cursive;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   background: var(--bg-light);
   line-height: 1.7;
   color: var(--text-dark);
