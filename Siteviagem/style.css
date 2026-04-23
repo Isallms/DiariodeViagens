@@ -24,11 +24,7 @@ html {
 }
 
 body {
-<<<<<<< HEAD
   font-family: Georgia, 'Times New Roman', Times, serif;
-=======
-  font-family:  Georgia, 'Times New Roman', Times, serif;
->>>>>>> e050d3cbcdb4cc3083689933ce693d1b90797275
   background: var(--bg-light);
   line-height: 1.7;
   color: var(--text-dark);
